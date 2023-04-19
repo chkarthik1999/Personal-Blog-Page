@@ -5,6 +5,6 @@
 - [About](#about)
 - [Technologies](#Technologies)
 - [Features](#Features)
-- [Getting started](#Getting started)
-- [Contact information](#Contact information)
+- [Getting_started](#Getting_started)
+- [Contact_information](#Contact_information)
 - [Acknowledgments](#Acknowledgments)
