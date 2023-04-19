@@ -1,13 +1,10 @@
 # Personal-Blog-Page
 
 
-## 📝 Table of Contents
+## Table of Contents
 - [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Flow Chart](#flowchart)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Technologies](#Technologies)
+- [Features](#Features)
+- [Getting started](#Getting started)
+- [Contact information](#Contact information)
+- [Acknowledgments](#Acknowledgments)
