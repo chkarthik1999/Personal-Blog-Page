@@ -1,0 +1,163 @@
+/* Reset default browser styles */
+
+
+:root{
+     background-color:hsla(216, 33%, 68%, 1);
+   background-color: hsla(199, 89%, 49%, 1);
+   background-color: hsla(216, 33%, 20%, 1);
+   background-color: hsla(222, 44%, 13%, 1);
+   background-color: hsla(222, 47%, 11%, 1);  
+
+}
+body p{
+color: hsla(0, 0%, 100%, 1);
+color: hsla(216, 100%, 95%, 1);
+color: hsla(199, 69%, 84%, 1);
+color: hsla(216, 33%, 68%, 1);
+color: hsla(199, 89%, 49%, 1);
+color: hsla(217, 24%, 59%, 1);
+color: hsla(217, 17%, 48%, 1);
+font-family: sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Style header */
+  header {
+    background-color: rgb(108, 117, 134);
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+  float:right;
+  margin-left: 550px;
+  }
+
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgb(108, 117, 134);
+    padding: 10px;
+    z-index: 1;
+  }
+  
+  nav ul li a {
+    color:#fff;
+    text-decoration: none;
+   font-family: sans-serif;
+  }
+
+ nav ul :hover{
+    color: rgb(41, 55, 79);
+  }
+
+ 
+  
+
+  
+  /* Style main content */
+  main {
+    max-width: 800px;
+    margin-left: 100px;
+    padding: 2rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+
+  .image h1{
+      padding-bottom: 60px;
+  }
+ 
+  
+  section  {
+    display: flex;
+  }
+
+  .headline{
+   
+    color: hsla(0, 0%, 100%, 1);
+    color: hsla(216, 100%, 95%, 1);
+  }
+  .headline .span{
+    color:  rgb(100, 149, 218);
+  }
+  h1,h2 {
+    font-family: sans-serif;
+    margin-bottom: 1rem;
+    color:  rgb(100, 149, 218);
+    padding-top: 30px;
+  }
+
+   /* .hero-banner{
+    display: flex;
+    float: right;
+    margin-left: 50px;
+    margin-bottom: 30px;
+  } */
+  ul {
+    list-style: none;
+    margin-left: 1rem;
+  }
+  
+  ul li a {
+    color:  hsla(0, 0%, 100%, 1);
+    color: hsla(216, 100%, 95%, 1);
+    color: hsla(199, 69%, 84%, 1);
+    color: hsla(216, 33%, 68%, 1);
+    color: hsla(199, 89%, 49%, 1);
+    color: hsla(217, 24%, 59%, 1);
+    color: hsla(217, 17%, 48%, 1);
+    text-decoration: none;
+    font-family: sans-serif;
+  }
+  
+  /* Style contact form */
+  form label {
+    color: #fff;
+    display: block;
+    margin-bottom: 0.5rem;
+    font-family: sans-serif;
+  }
+  
+  form input,
+  form textarea {
+    display: block;
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ccc;
+    margin-bottom: 1rem;
+  }
+  
+  form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  /* Style footer */
+  footer {
+    background-color: #ccc;
+    color: #333;
+    padding: 1rem;
+    text-align: center;
+  }
+  
